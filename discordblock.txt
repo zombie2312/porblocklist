@@ -1,0 +1,35 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - discordBlock list
+# Expires: 1 day
+# Homepage: https://chillzone.live/
+# Help: zombie2312#7310
+# License: https://unlicense.org/
+# Total number of network filters: 240
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# discordBlock list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 https://dlscord.gg/
+0.0.0.0 https://dlscord.org/
+0.0.0.0 https://dlscord.com/
+0.0.0.0 https://dlscord.net/
+0.0.0.0 https://dlscord.live/
+0.0.0.0 https://dlscord.uk/
+0.0.0.0 https://dlscord.gifts/
+0.0.0.0 https://dlscord.help/
+0.0.0.0 https://discorcl.link/
+0.0.0.0 http://dlscord.ru/
+0.0.0.0 http://discord-nitro.link/
+0.0.0.0 https://discorcl.click/
+0.0.0.0 https://Discrodsteam.ru/
+0.0.0.0 https://discordgift.site/
+0.0.0.0 https://dlscord-app.info/
+0.0.0.0 http://dlscord.app/
+0.0.0.0 https://discordd.gift/
+0.0.0.0 http://discordc.gift/
+0.0.0.0 https://discordn.gift/
+0.0.0.0 https://discord-app.net/
+0.0.0.0 https://discocrd-gift.com/
